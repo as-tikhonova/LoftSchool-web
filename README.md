@@ -1,2 +1,0 @@
-# LoftSchool Верстка
-loftschool web
