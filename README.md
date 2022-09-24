@@ -1,2 +1,2 @@
-# my_proj
+# LoftSchool Верстка
 loftschool web
